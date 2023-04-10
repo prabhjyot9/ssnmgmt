@@ -32,7 +32,7 @@ function Login() {
     return (
         <div className={LoginStyles.loginContainer}>
             <div className={LoginStyles.loginContainerv2}>
-                <h1>Welcome back</h1>
+                <h1>JOIN NOW</h1>
 
                 <div className={LoginStyles.inputContainer}>
                     <label>EMAIL</label>

@@ -48,7 +48,7 @@ function Signup() {
                 <h1>Create your account</h1>
 
                 <div className={SignUp.inputContainer}>
-                    <label>FRIST NAME</label>
+                    <label>FIRST NAME</label>
                     <input onChange={handleChange} name="firstName" placeholder="enter your first name" type="text"/>
                 </div>
                 <div className={SignUp.inputContainer}>

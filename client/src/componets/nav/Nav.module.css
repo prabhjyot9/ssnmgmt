@@ -1,6 +1,6 @@
 .mainNav{
     color:white;
-    background-color: black;
+    background-color: rgb(17, 17, 134);
     display: flex;
     justify-content: space-between;
     padding:50px 100px;

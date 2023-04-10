@@ -27,7 +27,7 @@
 .inputContainer input{
     width: 100%;
     background-color: #e8f0fe;
-    color:black;
+    color:rgb(17, 17, 134);
     padding: 15px;
     border-radius: .5rem;
     display: block;
@@ -42,7 +42,7 @@
     border-radius: .5rem;
     margin-top: 7px;
     margin-bottom: 7px;
-    background-color: red;
+    background-color: rgb(56, 209, 71);
     color:white;
     transition: all 0.4s;
     margin-top: 20px;
@@ -51,8 +51,8 @@
 .loginBTN:hover{
     transition: all 0.4s;
     background-color: white;
-    border: 1px solid red;
-    color: black;
+    border: 1px solid rgb(56, 209, 71);
+    color: rgb(17, 17, 134);
 }
 
 .loginContainerv2{
@@ -87,8 +87,8 @@
 .googleBTN:hover{
     transition: all 0.4s;
     background-color: white;
-    border: 1px solid black;
-    color: black;
+    border: 1px solid rgb(17, 17, 134);
+    color: rgb(17, 17, 134);
 }
 
 
@@ -99,5 +99,5 @@
 }
 
 .footerContainer a{
-    color:black;
+    color:rgb(17, 17, 134);
 }
